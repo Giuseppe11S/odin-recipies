@@ -32,9 +32,6 @@ git clone https://github.com/Giuseppe11S/odin-recipies.git
 
 Open the index.html file in a web browser
 
-📜 License
-
-This project is distributed under the MIT license. Feel free to modify and adapt it to your needs!
 
 📖 Included Recipes
 
