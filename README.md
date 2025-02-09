@@ -1,3 +1,5 @@
+
+# odin-recipies
 🍽 Recipe Website
 
 Welcome to my simple recipe website! This project consists of a static HTML page that gathers some easy and quick recipes to prepare.
@@ -43,4 +45,5 @@ Hot Dog Burnt Ends
 Kansas City Style "Burnt Ends" Philly Cheesesteak
 
 ⭐ If you liked the project, leave a ⭐ on GitHub!
+
 
